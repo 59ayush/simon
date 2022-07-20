@@ -3,6 +3,18 @@ body {
   background-color: #011F3F;
 }
 
+p {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.rules-container {
+  width: 100%;
+  height: 100vh;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
